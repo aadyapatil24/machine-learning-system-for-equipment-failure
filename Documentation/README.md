@@ -9,9 +9,6 @@
 **Web Application:**  
 https://ai-smart-predictive-maintenance-hdhp5urxg4umpdqertsaxz.streamlit.app/
 
-**GitHub Repository:**  
-https://github.com/YOUR-USERNAME/machine-learning-system-for-equipment-failure
-
 ---
 
 ## 📌 About the Project
